@@ -55,3 +55,5 @@ if moeglich == 1:
     print ("und ", round(gewicht) ,"Kilo schwer sein!")
 
 print("Der Wirkungsgrad ist in diesen Werten nicht berücksichtigt!")
+
+# final Version M.J. JuFo 2024
