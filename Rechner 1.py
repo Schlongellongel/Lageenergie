@@ -55,4 +55,4 @@ if Infos == "Ja":
                               print("oder..")
                               print("...",WattStunden//300,"Gaming PC(s) eine Stunde lang zu betreiben")
         
-#Sinn der Programmierung Fomolieren!
+#M.J. JuFo 2024
